@@ -1,0 +1,39 @@
+{
+  "name": "proyecto-web--ii",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000P\u0000R\u0000O\u0000Y\u0000E\u0000C\u0000T\u0000O\u0000W\u0000E\u0000B\u00002\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": " nodemon index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevenMejia13/PROYECTOWEB2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StevenMejia13/PROYECTOWEB2/issues"
+  },
+  "homepage": "https://github.com/StevenMejia13/PROYECTOWEB2#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "excel": "^1.0.1",
+    "exceljs": "^4.3.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.13.0",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.13",
+    "ora": "^5.4.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.15.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
